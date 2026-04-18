@@ -1,0 +1,7 @@
+{
+  "name": "authorizer",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.682.0"
+  }
+}
